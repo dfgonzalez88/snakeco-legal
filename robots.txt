@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://snakeco.flashylearning.app/sitemap.xml
